@@ -6,3 +6,4 @@
 " Last Change:    20 October 2006
 
 autocmd BufRead,BufNewFile *.sal                set filetype=sal
+
